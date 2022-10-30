@@ -1,0 +1,30 @@
+{
+  "name": "@kati/test",
+  "version": "0.0.1",
+  "description": "Testing the powers of javascript",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taofik-adeniyi/js-lib.git"
+  },
+  "keywords": [
+    "typescript",
+    "javscript",
+    "libraries"
+  ],
+  "author": "Taofik Adeniyi",
+  "license": "MIT",
+  "files": [
+    "lib",
+    "CHANGELOG.md",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "bugs": {
+    "url": "git+https://github.com/taofik-adeniyi/js-lib.git/issues"
+  },
+  "homepage": "https://github.com/taofik-adeniyi/js-lib#readme"
+}
